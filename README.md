@@ -4,7 +4,6 @@ A Practical Study Plan to become a successful cybersecurity engineer based on ro
 
 **It will cover but not limited to:**
 
-**_Done_**
 1. [Common Skills for Security Study Plan](common-skills-study-plan.md)
 2. [AWS Security Study Plan](aws-security-study-plan.md)
 3. [GCP Security Study Plan](gcp-security-study-plan.md)
